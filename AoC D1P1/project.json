@@ -1,13 +1,10 @@
 {
   "name": "AoC D1P1",
   "description": "Advent of Code Day 1 Puzzle 1",
-  "main": "Main.xaml",
+  "main": "Puzzle 1.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.0]",
-    "UiPath.Mail.Activities": "[1.18.1]",
-    "UiPath.System.Activities": "[22.10.3]",
-    "UiPath.Testing.Activities": "[22.10.0]",
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "UiPath.Excel.Activities": "[2.16.1]",
+    "UiPath.System.Activities": "[22.10.3]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -47,8 +44,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "e6f115a5-8b73-4263-940f-d9a4abbc15d6",
+      "filePath": "Puzzle 1.xaml",
+      "uniqueId": "d1c59a45-5b88-45b3-80dd-a069e6c804c3",
       "input": [],
       "output": []
     }
