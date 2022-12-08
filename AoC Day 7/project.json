@@ -1,0 +1,63 @@
+{
+  "name": "AoC Day 7",
+  "description": "Background Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DataService.Activities": "[21.10.1]",
+    "UiPath.System.Activities": "[22.10.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "tenantName": "NicoleUS",
+      "namespace": "AoC_Day_7",
+      "uniqueReference": "oVLBrqdXptOyuFuJShSnO3trxpr2UAkJkb3ilDL+9sY="
+    }
+  ],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.8.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": false,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "039d818d-9892-408f-a870-ebbcaeb24f1e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
