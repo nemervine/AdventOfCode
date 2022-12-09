@@ -1,0 +1,16 @@
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\input.txt
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\AoC Day 8.exe
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\AoC Day 8.deps.json
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\AoC Day 8.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\AoC Day 8.dll
+C:\Users\Nicole\source\repos\AoC Day 8\bin\Release\net6.0\AoC Day 8.pdb
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.dll
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\refint\AoC Day 8.dll
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.pdb
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\AoC Day 8.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC Day 8\obj\Release\net6.0\ref\AoC Day 8.dll
