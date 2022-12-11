@@ -1,0 +1,27 @@
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\input.txt
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\AoC Day 10 GUI.exe
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\AoC Day 10 GUI.deps.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\AoC Day 10 GUI.runtimeconfig.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\AoC Day 10 GUI.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\AoC Day 10 GUI.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI_MarkupCompile.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI_MarkupCompile.lref
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.g.resources
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\refint\AoC Day 10 GUI.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\ref\AoC Day 10 GUI.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\AoC Day 10 GUI.csproj.CopyComplete
