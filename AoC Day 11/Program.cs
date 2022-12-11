@@ -80,13 +80,9 @@ public struct Monkey
         items = Array.ConvertAll(monkeyRows[0].Replace("Starting items: ", "").Split(",",StringSplitOptions.TrimEntries),s=>(double)double.Parse(s));
         operation = monkeyRows[1].Replace("  Operation: new = old ", "").ToCharArray()[0];
         if (monkeyRows[1].EndsWith("old"))
-        {
             operationNum = -1;
-        }
         else
-        {
             operationNum = Int32.Parse(monkeyRows[1].Split(" ", StringSplitOptions.RemoveEmptyEntries).Last());
-        }
         test = Int32.Parse(monkeyRows[2].Split(" ").Last());
         testTrue = Int32.Parse(monkeyRows[3].Split(" ").Last());
         testFalse = Int32.Parse(monkeyRows[4].Split(" ").Last());

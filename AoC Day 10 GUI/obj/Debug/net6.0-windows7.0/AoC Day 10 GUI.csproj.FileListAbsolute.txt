@@ -1,1 +1,0 @@
-C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows7.0\AoC Day 10 GUI.csproj.AssemblyReference.cache

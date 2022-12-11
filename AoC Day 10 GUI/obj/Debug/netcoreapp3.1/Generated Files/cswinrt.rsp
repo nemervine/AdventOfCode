@@ -1,7 +1,0 @@
--target netstandard2.0
--input 7.0
--input 
--output "C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\netcoreapp3.1\Generated Files"
-
--exclude Windows
--exclude Microsoft
