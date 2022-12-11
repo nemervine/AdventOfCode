@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="AoC_Day_10_OCR.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AoC_Day_10_OCR">
+
+</Application>
+

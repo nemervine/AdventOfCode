@@ -1,0 +1,7 @@
+-target net6.0-windows
+-input 7.0
+-input 
+-output "C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 10 GUI\obj\Debug\net6.0-windows\Generated Files"
+
+-exclude Windows
+-exclude Microsoft
