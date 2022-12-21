@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 8\\AoC Day 8.csproj",
+      "projectUniqueName": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 08\\AoC Day 8.csproj",
       "projectName": "AoC Day 8",
-      "projectPath": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 8\\AoC Day 8.csproj",
+      "projectPath": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 08\\AoC Day 8.csproj",
       "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 8\\obj\\",
+      "outputPath": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 08\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

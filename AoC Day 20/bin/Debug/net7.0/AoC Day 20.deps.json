@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AoC Day 20/1.0.0": {
+        "runtime": {
+          "AoC Day 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoC Day 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2a4Z7ExKvKvJfKBRBjkvHGr1MWB1fbuNiiFoppWelq38h25yrVzQEeVbiUfE6W5g9a3umkIv/oO/0+8VRXGpUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole\\source\\repos\\AdventOfCode\\AoC Day 21\\AoC Day 21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

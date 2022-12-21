@@ -1,0 +1,23 @@
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\App.config
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\input.txt
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\test.txt
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.exe
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\map.txt
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.dll.config
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.deps.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.runtimeconfig.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\bin\x64\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.csproj.CopyComplete
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\refint\AoC Day 15.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\AoC Day 15.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 15\obj\x64\Debug\net7.0-windows10.0.22621.0\ref\AoC Day 15.dll

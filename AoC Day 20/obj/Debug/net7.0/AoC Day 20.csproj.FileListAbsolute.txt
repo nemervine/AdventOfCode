@@ -1,0 +1,17 @@
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\AoC Day 20.exe
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\AoC Day 20.deps.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\AoC Day 20.runtimeconfig.json
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\AoC Day 20.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\AoC Day 20.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\refint\AoC Day 20.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.pdb
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\AoC Day 20.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\obj\Debug\net7.0\ref\AoC Day 20.dll
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\input.txt
+C:\Users\Nicole\source\repos\AdventOfCode\AoC Day 20\bin\Debug\net7.0\test.txt

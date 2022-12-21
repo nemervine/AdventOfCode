@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AoC Day 12": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
